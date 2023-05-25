@@ -2,5 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="lightBlueCard">#339EB8</color>
+    <color name="lightBlueCard">#A4C5F4</color>
+
+    <color name="button_enabled">#0A4AA3</color>
+    <color name="button_disabled">#494A4B</color>
 </resources>
