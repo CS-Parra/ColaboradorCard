@@ -2,4 +2,12 @@
     <string name="app_name">PruebaTecnicaCity</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="andres_correa">Andres Correa</string>
+    <string name="default_date">16/10/1999</string>
+    <string name="default_position">Ingeniero</string>
+    <string name="regresar_button_text">REGRESAR</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="puesto_en_la_empresa">Puesto en la empresa</string>
+    <string name="enviar_button">ENVIAR</string>
+    <string name="nombre">Nombre</string>
 </resources>
